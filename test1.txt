@@ -1,6 +1,2 @@
 des tests
-<<<<<<< HEAD
-fixed de tests
-=======
-fixed de tests
->>>>>>> conflict
+
